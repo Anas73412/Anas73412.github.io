@@ -1,0 +1,7 @@
+# robots.txt — Anas Mansoori portfolio
+# https://Anas73412.github.io/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://Anas73412.github.io/sitemap.xml
